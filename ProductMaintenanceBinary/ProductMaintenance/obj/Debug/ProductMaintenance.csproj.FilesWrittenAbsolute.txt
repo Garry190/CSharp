@@ -1,0 +1,9 @@
+/Users/xcode/GitHub/CSharp/ProductMaintenanceBinary/ProductMaintenance/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/xcode/GitHub/CSharp/ProductMaintenanceBinary/ProductMaintenance/obj/Debug/ProductMaintenance.frmNewProduct.resources
+/Users/xcode/GitHub/CSharp/ProductMaintenanceBinary/ProductMaintenance/obj/Debug/ProductMaintenance.frmProductMain.resources
+/Users/xcode/GitHub/CSharp/ProductMaintenanceBinary/ProductMaintenance/obj/Debug/ProductMaintenance.Properties.Resources.resources
+/Users/xcode/GitHub/CSharp/ProductMaintenanceBinary/ProductMaintenance/bin/Debug/ProductMaintenance.exe.config
+/Users/xcode/GitHub/CSharp/ProductMaintenanceBinary/ProductMaintenance/bin/Debug/ProductMaintenance.exe.mdb
+/Users/xcode/GitHub/CSharp/ProductMaintenanceBinary/ProductMaintenance/bin/Debug/ProductMaintenance.exe
+/Users/xcode/GitHub/CSharp/ProductMaintenanceBinary/ProductMaintenance/obj/Debug/ProductMaintenance.exe
+/Users/xcode/GitHub/CSharp/ProductMaintenanceBinary/ProductMaintenance/obj/Debug/ProductMaintenance.exe.mdb
